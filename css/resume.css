@@ -90,6 +90,14 @@ p.lead {
   text-transform: uppercase;
 }
 
+.navbar-toggler {
+  margin-right: 10px;
+}
+
+#navbarSupportedContent ul, .navbar-brand {
+  margin-left: 10px;
+}
+
 #sideNav .navbar-toggler:focus {
   outline-color: #d48a6e;
 }
